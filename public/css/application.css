@@ -1,18 +1,26 @@
 table .racer_table {
   border: 1px solid black;
-  width="100%";
+  width: "100%";
   background-color: blue;
-  height: 200px;
+  height: 160px;
 }
 
 .racer_table td {
   border: 1px solid black;
-  width=100%;
+  width: 100%;
   background-color: white;
-  height: 100px;
-  width: 100px;
+  height: 80px;
+  width: 80px;
 }
 
 .racer_table td.active {
   background-color: blue;
 }
+
+body
+{ 
+  color: white;
+  background-image:url('http://www.ek9.org/forum/attachments/new-users/12980d1310059823-ek9-race-car-thailand-img_2440.jpg');
+}
+
+
